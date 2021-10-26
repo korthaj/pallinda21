@@ -12,7 +12,7 @@ Användaren `nisse` hittar alltså sitt repo för övning 1 på
 [https://gits-15.sys.kth.se/dd1396ht21/nisse-ovn1](https://gits-15.sys.kth.se/dd1396ht21/nisse-ovn1).
 
 Gör (minst) en fil per uppgift. Utgå från mallarna i
-[/pallinda21/ovn0/](https://github.com/yourbasic/pallinda21/tree/master/ovn0).
+[/pallinda21/ovn0/](https://github.com/korthaj/pallinda21/tree/master/ovn0).
 Lösningar skall vara inlämnade **innan övningen börjar**.
 
 - Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
