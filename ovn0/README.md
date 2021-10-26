@@ -6,5 +6,5 @@
 
 ### Go
 
-- Funktion med testkod: [uppg2.go](https://github.com/korthaj/pallinda21/blob/master/ovn0/uppg2.md)
-- Klass med testkod: [uppg3.go](https://github.com/korthaj/pallinda21/blob/master/ovn0/uppg3.md)
+- Funktion med testkod: [uppg2.go](https://github.com/korthaj/pallinda21/blob/master/ovn0/uppg2.go)
+- Klass med testkod: [uppg3.go](https://github.com/korthaj/pallinda21/blob/master/ovn0/uppg3.go)
