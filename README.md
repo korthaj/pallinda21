@@ -16,11 +16,11 @@ Användaren `nisse` hittar alltså sitt repo för övning 1 på
 ## Uppgifter
 
 Gör (minst) en fil per uppgift. Utgå från mallarna i
-[/pallinda21/ovn0/](https://github.com/yourbasic/pallinda21/tree/master/ovn0).
+[/pallinda21/ovn0/](https://github.com/korthaj/pallinda21/tree/master/ovn0).
 Lösningar skall vara inlämnade **innan övningen börjar**.
 
 Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
 
-- [Övning 1](https://github.com/yourbasic/pallinda21/blob/master/ovn1.md) (fredag 5/11)
-- [Övning 2](https://github.com/yourbasic/pallinda21/blob/master/ovn2.md) (fredag 19/11)
-- [Övning 3](https://github.com/yourbasic/pallinda21/blob/master/ovn3.md) (fredag 3/12)
+- [Övning 1](https://github.com/korthaj/pallinda21/blob/master/ovn1.md) (fredag 5/11)
+- [Övning 2](https://github.com/korthaj/pallinda21/blob/master/ovn2.md) (fredag 19/11)
+- [Övning 3](https://github.com/korthaj/pallinda21/blob/master/ovn3.md) (fredag 3/12)
