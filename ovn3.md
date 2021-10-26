@@ -1,15 +1,15 @@
-# Övning 3 pallinda20
+# Övning 3 pallinda21
 
-This work should be completed before the exercise on **Friday 27th November**.
+This work should be completed before the exercise on **Friday 3rd December**.
 
 Samtliga uppgifter på kursen ska lämnas in på
-[organisationen dd1396ht20 på KTH GitHub](https://gits-15.sys.kth.se/dd1396ht20).
+[organisationen dd1396ht21 på KTH GitHub](https://gits-15.sys.kth.se/dd1396ht21).
 Repos för de tre övningarna heter `username-ovnx`.
 Användaren `nisse` hittar alltså sitt repo för övning 3 på
-[https://gits-15.sys.kth.se/dd1396ht20/nisse-ovn3](https://gits-15.sys.kth.se/dd1396ht20/nisse-ovn3).
+[https://gits-15.sys.kth.se/dd1396ht21/nisse-ovn3](https://gits-15.sys.kth.se/dd1396ht21/nisse-ovn3).
 
 Gör (minst) en fil per uppgift. Utgå från mallarna i
-[/pallinda20/ovn0/](https://github.com/yourbasic/pallinda20/tree/master/ovn0).
+[/pallinda21/ovn0/](https://github.com/korthaj/pallinda21/tree/master/ovn0).
 Lösningar skall vara inlämnade **innan övningen börjar**.
 
 - Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
